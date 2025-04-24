@@ -1,5 +1,7 @@
 # Contel-IA
 
+> **Explicación:** [Video en Youtube](https://youtu.be/8U6Aq0JrdHE)
+
 ## Generación de contenido para redes sociales
 
 ### Generación de contenido definido
